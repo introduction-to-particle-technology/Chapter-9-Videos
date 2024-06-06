@@ -6,3 +6,7 @@ Video content to support Chapter 9: Storage and Flow of Powders – Hopper Desig
 ## Mass Flow
 
 [![Watch the video](https://img.youtube.com/vi/VLG6OEKM23E/sddefault.jpg)](https://www.youtube.com/watch?v=VLG6OEKM23E)
+
+## Core Flow
+
+[![Watch the video](https://img.youtube.com/vi/iiqvAKmiL_Y/sddefault.jpg)](https://www.youtube.com/watch?v=iiqvAKmiL_Y)
